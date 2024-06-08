@@ -30,9 +30,21 @@ hide: false
 ---
 
 ---
-src: ./pages/multiple-entries.md
+src: ./pages/browser_version_guard_01.md
 hide: false
 ---
+
+---
+src: ./pages/browser_version_guard_02.md
+hide: false
+---
+
+---
+src: ./pages/browser_version_guard_03.md
+hide: false
+---
+
+
 
 ---
 transition: fade-out
