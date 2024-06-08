@@ -60,6 +60,11 @@ hide: false
 ---
 
 ---
+src: ./pages/github_ci_01.md
+hide: false
+---
+
+---
 transition: fade-out
 ---
 
