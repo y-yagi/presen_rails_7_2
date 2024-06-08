@@ -1,6 +1,6 @@
 ---
 theme: seriph
-title: Rails 7.2(part1)
+title: Rails 7.2
 # apply any unocss classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
@@ -14,7 +14,7 @@ transition: slide-left
 mdc: true
 ---
 
-# Rails 7.2(part1)
+# Rails 7.2
 
 Ginza.rb xx回
 y-yagi
@@ -49,6 +49,15 @@ src: ./pages/ruby31_01.md
 hide: false
 ---
 
+---
+src: ./pages/pwa_01.md
+hide: false
+---
+
+---
+src: ./pages/rubocop_01.md
+hide: false
+---
 
 ---
 transition: fade-out
