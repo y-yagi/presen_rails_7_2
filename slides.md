@@ -44,6 +44,10 @@ src: ./pages/browser_version_guard_03.md
 hide: false
 ---
 
+---
+src: ./pages/ruby31_01.md
+hide: false
+---
 
 
 ---
