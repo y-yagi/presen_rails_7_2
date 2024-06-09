@@ -80,6 +80,16 @@ hide: false
 ---
 
 ---
+src: ./pages/jobs_within_transactions_01.md
+hide: false
+---
+
+---
+src: ./pages/jobs_within_transactions_02.md
+hide: false
+---
+
+---
 layout: center
 class: text-center
 ---
