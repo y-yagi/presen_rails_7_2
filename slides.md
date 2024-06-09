@@ -100,6 +100,11 @@ hide: false
 ---
 
 ---
+src: ./pages/yjit_01.md
+hide: false
+---
+
+---
 layout: center
 class: text-center
 ---
