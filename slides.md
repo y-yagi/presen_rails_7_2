@@ -105,6 +105,11 @@ hide: false
 ---
 
 ---
+src: ./pages/rails_guide_design_01.md
+hide: false
+---
+
+---
 layout: center
 class: text-center
 ---
