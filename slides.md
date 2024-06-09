@@ -16,7 +16,7 @@ mdc: true
 
 # Rails 7.2
 
-Ginza.rb xx回
+Ginza.rb 81回
 y-yagi
 
 ---
