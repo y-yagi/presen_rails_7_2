@@ -110,6 +110,16 @@ hide: false
 ---
 
 ---
+src: ./pages/jemalloc_01.md
+hide: false
+---
+
+---
+src: ./pages/puma_dev_01.md
+hide: false
+---
+
+---
 layout: center
 class: text-center
 ---
