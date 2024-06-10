@@ -12,6 +12,7 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
 mdc: true
+favicon: https://ginzarb.github.io/favicon.ico
 ---
 
 # Rails 7.2
