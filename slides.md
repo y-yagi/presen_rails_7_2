@@ -15,7 +15,7 @@ mdc: true
 favicon: https://ginzarb.github.io/favicon.ico
 ---
 
-# Rails 7.2
+## Rails 7.2のMajor Featuresをみてみよう
 
 Ginza.rb 81回
 y-yagi
