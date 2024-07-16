@@ -1,8 +1,10 @@
-# Development containers configuration for applications
+# Development Containers is 何
 
-* Redis、DBだけでなくHeadless Chromeなどもインストールされるようになっており、テストもコンテナで実行出来るようになっている
-* ローカル(Docker及びDocker Composeを使用)で動作
-* [Getting Started with Dev Containers](https://edgeguides.rubyonrails.org/getting_started_with_devcontainer.html)というDevelopment Containersでの開発について説明したガイドも増えた
-* 使用しているコンテナのイメージとフィーチャーズは[rails/devcontainer](https://github.com/rails/devcontainer)にある
-* 関連して、[rails-new](https://github.com/rails/rails-new)というCLI(Rust製)も作られ、ローカルにRubyを入れずに`rails new`が可能に
-  * `rails-new myapp`で実行出来る
+* 開発のすべてをDockerコンテナで出来るようにしよう、という取り組み
+  * コーディングだけでなく、テストなども含む
+* MicrosoftとGitHubが推進
+* 開発環境をDockerコンテナとしてビルドし、ソースコードを管理・共有できるようにするための仕様
+  * VSCodeで使われている(た?)「VSCode Remote - Container」が前身
+* 2022年に仕様とこの仕様のためのCLI(Dev Container CLI)がOSSになり、VS Code以外でも使えるようになった
+  * IntelliJもサポートしてる
+  * [Dev Containers \| IntelliJ IDEA Documentation](https://www.jetbrains.com/help/idea/connect-to-devcontainer.html)
