@@ -17,7 +17,7 @@ favicon: https://ginzarb.github.io/favicon.ico
 
 ## Rails 7.2のMajor Featuresをみてみよう
 
-Ginza.rb 81回
+Ginza.rb 82回
 y-yagi
 
 ---
@@ -127,6 +127,11 @@ hide: false
 
 ---
 src: ./pages/puma_dev_01.md
+hide: false
+---
+
+---
+src: ./pages/outro.md
 hide: false
 ---
 
