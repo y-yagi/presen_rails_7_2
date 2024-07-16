@@ -14,3 +14,5 @@ apt-get update -y && apt-get -y install --no-install-recommends default-mysql-cl
 
 rm -rf /var/lib/apt/lists/*
 ```
+
+* [Available Dev Container Features](https://containers.dev/features)で使用出来るフィーチャーズの検索が出来る
