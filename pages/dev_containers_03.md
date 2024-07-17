@@ -1,6 +1,6 @@
 # Development Containers is 何
 
-* 設定ファイル(devcontainer.json)にportやenvの記載を行う
+**設定ファイルの例**
 
 ```json
 {

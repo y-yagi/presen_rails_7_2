@@ -1,4 +1,4 @@
 # 今日の話題
 
 - Rails 7.2のMajor Featuresについて
-- Rails Guidesの[Ruby on Rails 7.2 Release Notes](https://edgeguides.rubyonrails.org/7_2_release_notes.html#)のMajor Featuresセクションにかかれているもの
+- Rails Guidesの[Ruby on Rails 7.2 Release Notes](https://edgeguides.rubyonrails.org/7_2_release_notes.html#)のMajor Featuresセクションに記載されているもの

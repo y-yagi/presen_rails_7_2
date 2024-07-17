@@ -2,7 +2,8 @@
 
 * コンテナはDockerを使用。Docker Composeも使用出来る。
 * Docker Imageを編集することなく、追加で使用するライブラリやCLIをインストールする事ができる。この機能を"Development Container Features"と呼んでいる
-  * さっきの例だと、元だと、github-cliとmysql-cientをインストールするのに"Development Container Features"を使用している
+  * さっきの例だと、github-cliとmysql-cientをインストールするのに"Development Container Features"を使用している
+  * 中身は普通にシェル
 
 例：https://github.com/rails/devcontainer/blob/main/features/mysql-client/install.sh
 
