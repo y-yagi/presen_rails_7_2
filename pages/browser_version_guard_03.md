@@ -1,4 +1,4 @@
-# Add browser version guard by default(as an aside)
+# Add browser version guard by default(余談)
 
 * User-Agent文字列を用いたブラウザーの判定をやるのは今どうなのか
 * MDNはもっと良い方法があるよね、というスタンス

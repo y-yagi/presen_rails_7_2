@@ -1,6 +1,6 @@
 # Prevent jobs from being scheduled within transactions
 
-* Active Recordのトランザクション内でActive Jobのエンキューが行われた場合に、自動でコミット後にジョブのエンキューを行うよう修正
+* Active Recordのトランザクション内で、Active Jobを使用してのジョブのエンキューが行われた場合に、コミット後にジョブのエンキューを自動で行うよう修正
 
 ```ruby
 Topic.transaction do

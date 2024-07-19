@@ -1,7 +1,7 @@
 # Add omakase RuboCop rules by default
 
 * [rails/rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase) が誕生
-* 新規にアプリケーションを作成すると、↑が使われるよう設定されるようになっている
+* 新規にアプリケーションを作成すると、↑が使われるよになっている
 
 ```yml
 # Omakase Ruby styling for Rails

@@ -21,4 +21,4 @@ end
 ```
 
 * 不許可の場合、"406 Not Acceptable"が返る
-  * エラー時に表示させるviewはデフォルトは`public/406-unsupported-browser.html`で、変更可能
+  * エラー時に表示されるviewは、デフォルトは`public/406-unsupported-browser.html`で、メソッドの引数で変更可能
