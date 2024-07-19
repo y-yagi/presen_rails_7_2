@@ -1,6 +1,6 @@
 # Add browser version guard by default
 
-* アクションへのアクセスをブラウザのバージョンを元に制限するAPIを追加
+* コントローラー/アクションへのアクセスをブラウザのバージョンを元に制限する[API](https://edgeapi.rubyonrails.org/classes/ActionController/AllowBrowser/ClassMethods.html#method-i-allow_browser)を追加
 
 ```ruby
 class ApplicationController < ActionController::Base
@@ -19,3 +19,6 @@ class MessagesController < ApplicationController
   allow_browser versions: { opera: 104, chrome: 119 }, only: :show
 end
 ```
+
+* 不許可の場合、"406 Not Acceptable"が返る
+  * エラー時に表示させるviewはデフォルトは`public/406-unsupported-browser.html`で、変更可能
