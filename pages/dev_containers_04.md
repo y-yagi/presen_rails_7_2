@@ -1,7 +1,6 @@
 # Development Containers is 何
 
-* コンテナはDockerを使用。Docker Composeも使用出来る。
-* Docker Imageを編集することなく、追加で使用するライブラリやCLIをインストールする事ができる。この機能を"Development Container Features"と呼んでいる
+* Docker Imageを編集することなく、コンテナで使用するライブラリやCLIをインストールする事ができる。この機能を"Development Container Features"と呼んでいる
   * さっきの例だと、github-cliとmysql-cientをインストールするのに"Development Container Features"を使用している
   * 中身は普通にシェル
 
