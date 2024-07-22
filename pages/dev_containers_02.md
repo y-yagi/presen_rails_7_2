@@ -6,4 +6,4 @@
 * MicrosoftとGitHubが推進
   * VSCodeで使われている(た?)「VSCode Remote - Container」が前身
 * 2022年に[仕様](https://github.com/devcontainers/spec)と、この仕様のための[CLI(Dev Container CLI)](https://github.com/devcontainers/cli)がOSSになり、VSCode以外でも使えるようになった
-  * [IntelliJもサポートしてる](https://www.jetbrains.com/help/idea/connect-to-devcontainer.html)
+  * IntelliJもサポートしおり、[RubyMineでも使える](https://www.jetbrains.com/help/ruby/connect-to-devcontainer.html)

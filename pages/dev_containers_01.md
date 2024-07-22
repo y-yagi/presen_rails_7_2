@@ -1,7 +1,7 @@
 # Development containers configuration for applications
 
 * 新規にアプリケーションを作成した際に、[Development Containers](https://containers.dev/)用のファイルを生成するようになった
-* デフォルトでは無効(Rails 7.2では)。生成したい場合、`rails new`に`--devcontainer`オプションを指定する必要がある
+* デフォルトではオプショナル(Rails 7.2では)。生成したい場合、`rails new`に`--devcontainer`オプションを指定する必要がある
 * 合わせてファイルを生成するための`devcontainer`コマンドが追加されており、既存のアプリケーションでファイルを生成したい場合、こちらを使用すればOK
 
 ```bash

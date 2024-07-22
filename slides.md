@@ -155,3 +155,24 @@ layout: center
 class: text-center
 ---
 # END
+
+---
+layout: center
+class: text-center
+---
+# おまけ
+
+---
+src: ./pages/load_defaults_01.md
+hide: false
+---
+
+---
+src: ./pages/load_defaults_02.md
+hide: false
+---
+
+---
+src: ./pages/load_defaults_03.md
+hide: false
+---
