@@ -13,7 +13,7 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
 mdc: true
 favicon: https://ginzarb.github.io/favicon.ico
-canvasWidth: 900
+canvasWidth: 1000
 ---
 
 ## Rails 7.2のMajor Featuresをみてみよう
